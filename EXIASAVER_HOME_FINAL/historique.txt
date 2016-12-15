@@ -1,0 +1,49 @@
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 0:9:55 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 0:12:15 
+ScreenSaver! type: Statique ; file: affichage.pbm ; date: 15/11 ; heure: 0:12:29 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 0:13:32 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 0:13:38 
+ScreenSaver! type: Statique ; file: affichage.pbm ; date: 15/11 ; heure: 0:14:46 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 0:14:53 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 0:14:58 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 0:15:55 
+ScreenSaver! type: Statique ; file: affichage2.pbm ; date: 15/11 ; heure: 0:16:4 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 0:16:7 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 0:16:12 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 0:16:17 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 0:23:0 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 9:4:50 
+ScreenSaver! type: Statique ; file: affichage3.pbm ; date: 15/11 ; heure: 9:8:48 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 9:17:5 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 9:18:18 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 9:18:23 
+ScreenSaver! type: Statique ; file: affichage3.pbm ; date: 15/11 ; heure: 9:18:48 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 9:51:16 
+ScreenSaver! type: Statique ; file: affichage2.pbm ; date: 15/11 ; heure: 9:51:22 
+ScreenSaver! type: Statique ; file: affichage3.pbm ; date: 15/11 ; heure: 9:51:30 
+ScreenSaver! type: Statique ; file: affichage.pbm ; date: 15/11 ; heure: 10:9:5 
+ScreenSaver! type: Statique ; file: affichage.pbm ; date: 15/11 ; heure: 10:18:5 
+ScreenSaver! type: Statique ; file: affichage3.pbm ; date: 15/11 ; heure: 10:21:31 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 10:21:36 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 10:24:13 
+ScreenSaver! type: Statique ; file: affichage.pbm ; date: 15/11 ; heure: 10:24:20 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 10:27:46 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 10:27:55 
+ScreenSaver! type: Statique ; file: affichage3.pbm ; date: 15/11 ; heure: 10:30:58 
+ScreenSaver! type: Statique ; file: affichage.pbm ; date: 15/11 ; heure: 10:31:19 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 10:44:52 
+ScreenSaver! type: Statique ; file: affichage2.pbm ; date: 15/11 ; heure: 10:51:26 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 10:52:42 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 10:52:46 
+ScreenSaver! type: Statique ; file: affichage2.pbm ; date: 15/11 ; heure: 10:52:51 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 10:52:58 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 10:53:2 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 10:53:5 
+ScreenSaver! type: Statique ; file: affichage2.pbm ; date: 15/11 ; heure: 10:56:45 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 10:56:48 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 10:56:52 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 11:13:3 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 11:13:21 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 11:15:46 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 11:15:59 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 11:16:11 
